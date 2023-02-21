@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FireObject
+  - Enemy
+  - Platform
+  - Pigeon
+  - Icon
+  - FX
+  - playerDamaged
+  - showTime
+  - Hook
+  - Slap
+  - Container
+  - Horror
+  - Rewards
+  - Item
+  - Hit
+  - Swip
+  - Hitbox
+  - Boss
+  - earnedItem
+  - ThrowingWeapon
+  - Grid
+  - BlackBoard
+  - ClearPanel
+  - Trab
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Postprocessing
+  - Water
+  - UI
+  - playerDamaged
+  - Platform
+  - playerDie
+  - Hook
+  - Player
+  - Enemy
+  - Hitbox
+  - HarmfulObject
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

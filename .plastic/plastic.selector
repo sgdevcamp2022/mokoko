@@ -1,0 +1,4 @@
+repository "SG_mokoko@SG_Mokoko@cloud"
+  path "/"
+    br "/main"
+    co "/main"

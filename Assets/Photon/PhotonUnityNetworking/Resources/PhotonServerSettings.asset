@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppSettings:
+    AppIdRealtime: b168d866-60f3-4a60-945f-e848db3b52da
+    AppIdFusion: 
+    AppIdChat: 
+    AppIdVoice: 
+    AppVersion: 
+    UseNameServer: 1
+    FixedRegion: 
+    Server: 
+    Port: 0
+    ProxyServer: 
+    Protocol: 0
+    EnableProtocolFallback: 1
+    AuthMode: 0
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+  DevRegion: kr
+  PunLogging: 0
+  EnableSupportLogger: 0
+  RunInBackground: 1
+  StartInOfflineMode: 0
+  RpcList:
+  - ClickRpc
+  - DestroyRpc
+  - DestroySpaceship
+  - Fire
+  - RespawnSpaceship
+  - FlipX
+  - JumpRPC
+  - Attack
+  - AttackAnimation
+  - <PatternActivator>g__ActivePattern|26_0
+  - <PatternActivator>g__ActivePattern|27_0
+  - <PatternActivator>g__selectIdx|27_0
+  - selectIdx
+  - <SetPattern>g__selectIdx|30_0
+  - SetPattern
+  - <BossCoroutine>g__nextPatternSetter|48_0
+  - nextPatternSetter
+  - ownerEnter
+  - Walk
+  - bossGetHit
+  - tmp
+  - BoolActor
+  - TriggerActor
+  - BossSetTag
+  - BossTagSetter
+  - GridTagSetter
+  - PlatformTagSetter
+  - <PatternHorror>g__panelColorChange|35_2
+  - <PatternShowtime>g__initiator|38_2
+  - initiator
+  - panelColorChange
+  - AvaliableSetter
+  - CountDown
+  - GetAvaliable
+  - InPlayerSetter
+  - ReadyCheckerSetter
+  - SpawnCharactor
+  - Active
+  - DeActive
+  DisableAutoOpenWizard: 1
+  ShowSettings: 1
+  DevRegionSetOnce: 1

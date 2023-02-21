@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://mokoko-b56ba-default-rtdb.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">216020470681</string>
+  <string name="google_storage_bucket" translatable="false">mokoko-b56ba.appspot.com</string>
+  <string name="project_id" translatable="false">mokoko-b56ba</string>
+  <string name="google_api_key" translatable="false">AIzaSyDYgMpo_rNMCedak0TzwXCt2KSeUmfpkhE</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDYgMpo_rNMCedak0TzwXCt2KSeUmfpkhE</string>
+  <string name="google_app_id" translatable="false">1:216020470681:android:0ce6cffca71980e32ba108</string>
+  <string name="default_android_client_id" translatable="false">216020470681-vogffji9tbttv0f0bih2h03ciqv84osc.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">216020470681-u7irfkjmulhf6k7mguljfjlknlv7tg93.apps.googleusercontent.com</string>
+</resources>

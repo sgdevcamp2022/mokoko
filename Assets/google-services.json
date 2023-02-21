@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "216020470681",
+    "firebase_url": "https://mokoko-b56ba-default-rtdb.firebaseio.com",
+    "project_id": "mokoko-b56ba",
+    "storage_bucket": "mokoko-b56ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216020470681:android:0ce6cffca71980e32ba108",
+        "android_client_info": {
+          "package_name": "com.mokoko.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216020470681-vogffji9tbttv0f0bih2h03ciqv84osc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mokoko.firebase",
+            "certificate_hash": "60a989365eb5865fa8fe6b00cf2b47bf60ce4f19"
+          }
+        },
+        {
+          "client_id": "216020470681-u7irfkjmulhf6k7mguljfjlknlv7tg93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYgMpo_rNMCedak0TzwXCt2KSeUmfpkhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216020470681-u7irfkjmulhf6k7mguljfjlknlv7tg93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
